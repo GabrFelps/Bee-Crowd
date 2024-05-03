@@ -30,7 +30,6 @@ def ordenar(a,b,c):
     return maior, meio, menor
     
         
-
 def main():
     A, B, C = input().split(" ")
     A = float(A)
